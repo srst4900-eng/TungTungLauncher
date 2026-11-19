@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <!-- App name part -->
-    <string name="app_short_name">MJLauncher</string>
+    <!-- App name part -->TungTung Launcher
+    <string name="app_short_name">TTLauncher</string>
 
     <!-- Action bar part -->
 
